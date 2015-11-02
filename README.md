@@ -23,3 +23,5 @@ The binaries for this integration can be downloaded from the [VersionOne Applica
 ## Want to contribute?
 
 The source code for this integration is available in the following GitHub repository: [https://github.com/versionone/VersionOne.Integration.Bugzilla](https://github.com/versionone/VersionOne.Integration.Bugzilla).
+
+Good day.
