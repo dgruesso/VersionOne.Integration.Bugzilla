@@ -18,8 +18,3 @@ The binaries for this integration can be downloaded from the [VersionOne Applica
 * /doc: The documentation for the integration  
 * LICENSE.MD: License information in Markdown format  
 * README.MD: This README information in Markdown format  
-
-
-## Want to contribute?
-
-The source code for this integration is available in the following GitHub repository: [https://github.com/versionone/VersionOne.Integration.Bugzilla](https://github.com/versionone/VersionOne.Integration.Bugzilla).
